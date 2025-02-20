@@ -59,4 +59,6 @@ console.log(id) // 1
 console.log(rest) // {title: "متدرب", description: "متدرب", isDeleted: false}
 
 const { title, ...rest } = obj
+
 console.log(title) // متدرب
+

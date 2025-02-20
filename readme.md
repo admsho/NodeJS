@@ -61,4 +61,3 @@ console.log(rest) // {title: "متدرب", description: "متدرب", isDeleted:
 const { title, ...rest } = obj
 console.log(title) // متدرب
 
-hello from Mohammed side
